@@ -1,0 +1,15 @@
+
+r
+java:S1192"\Define a constant instead of duplicating this literal "when we print only arr[0] :" 3 times.(Ù£ñÅ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÕ¥ûÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(œ²ê®8»óà¶•0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨°ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù£ñÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÖµ—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã†·¯
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íş³±
+V	java:S125"<This block of commented-out lines of code should be removed.(’ÇŸïıÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(ëî¤—øÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(é¼Ã´ùÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ˆ•€É
